@@ -1,0 +1,2 @@
+This is file that was created in VS Code. It is an exercise to explore the basic workflow of commiting changes to github. 
+This was done through a Xbuntu system. Commited changes to be pushed through git to a github repository.
